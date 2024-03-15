@@ -1,2 +1,2 @@
-# MyDumpDocs
+# MyCruelessNotes
 My study notes.
